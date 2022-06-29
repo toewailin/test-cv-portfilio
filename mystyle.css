@@ -10,3 +10,6 @@
 .wrapper{
 	margin: 4%;
 }
+.subexperience, .subskills, .subcertifications, .subpersonal-detail, .subeducation{
+	margin-left: 8% !important;
+}
