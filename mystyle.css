@@ -1,0 +1,12 @@
+* {
+	align-content: center;
+}
+.CriticalDetails{
+	text-align: center !important;
+	border-bottom-color: skyblue;
+	border-bottom-style: dashed;
+	border-bottom-width: 100%;
+}
+.wrapper{
+	margin: 4%;
+}
